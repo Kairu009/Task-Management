@@ -1,4 +1,4 @@
-# task-management-application
+# task-manager
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -22,7 +22,7 @@ npm install
 npm run dev
 ```
 
-### Sample Screen Shot
+## Sample Screen Shot
 
 By default, the user is prompted to the login screen unless they have already logged in, and it is saved to the browser's local storage unless the user closes the browser.
 
