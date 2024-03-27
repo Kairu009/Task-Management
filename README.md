@@ -1,5 +1,5 @@
 # task-manager
-Our task-manager tool helps users manage their chores more successfully. It allows you to add new tasks, mark them as finished, alter their titles, and remove them. Tasks are displayed in a list manner, with the task title and a tick for marking them as done. Users can also change the task title directly in the UI. Additionally, the app remembers tasks locally, guaranteeing that users' tasks are saved even when they refresh the page or return to the app later.
+The task-manager app is developed with the Vue.js framework, which is a popular choice for creating user interfaces. Vue.js provides simplicity, flexibility, and responsiveness, making it an excellent foundation for developing dynamic online apps such as the task manager. Vue.js allows developers to efficiently maintain state, process user input, and refresh the user interface in reaction to data changes. Its clear and intuitive syntax enables the building of powerful and dynamic applications, giving users with a seamless task management experience.
 
 ## Recommended IDE Setup
 
