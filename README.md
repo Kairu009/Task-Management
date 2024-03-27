@@ -5,12 +5,7 @@ Our task-manager tool helps users manage their chores more successfully. It allo
 
 [VSCode](https://code.visualstudio.com/).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
 ## Project Setup
-
 ### Clone the project
 ```sh
 git clone https://github.com/Kairu009/Task-Management.git
