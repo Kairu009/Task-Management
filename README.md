@@ -1,6 +1,5 @@
 # task-manager
-
-This template should help get you started developing with Vue 3 in Vite.
+Our task-manager tool helps users manage their chores more successfully. It allows you to add new tasks, mark them as finished, alter their titles, and remove them. Tasks are displayed in a list manner, with the task title and a tick for marking them as done. Users can also change the task title directly in the UI. Additionally, the app remembers tasks locally, guaranteeing that users' tasks are saved even when they refresh the page or return to the app later.
 
 ## Recommended IDE Setup
 
