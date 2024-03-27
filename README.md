@@ -35,3 +35,9 @@ By default, Task View displays "No tasks available" and both counters are set to
 ![3](https://github.com/Kairu009/Task-Management/assets/139950310/7a71ba7e-8b1b-472d-ae50-9b9d43bf73d7)
 
 ![6](https://github.com/Kairu009/Task-Management/assets/139950310/5e9ef16d-a113-43bc-83a9-6dae07fd17e5)
+
+Here is a view of the local storage, where you can see the user and password, as well as the task array where the task is stored, which contains the title or name of the task and whether or not the task has been completed.
+
+![7](https://github.com/Kairu009/Task-Management/assets/139950310/cda3b7da-5bb5-442c-980f-cc28e2cc1f0d)
+
+![8](https://github.com/Kairu009/Task-Management/assets/139950310/0e860e82-8e0c-431c-94a8-6c08b79f1d9f)
