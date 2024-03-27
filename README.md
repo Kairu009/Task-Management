@@ -3,13 +3,21 @@ Our task-manager tool helps users manage their chores more successfully. It allo
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+[VSCode](https://code.visualstudio.com/).
 
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
+
+```sh
+git clone https://github.com/Kairu009/Task-Management.git?authuser=0
+```
+
+```sh
+cd Task-Management
+```
 
 ```sh
 npm install
