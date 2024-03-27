@@ -22,7 +22,7 @@ npm install
 npm run dev
 ```
 
-## Sample Screen Shot
+## Screenshot
 
 By default, the user is prompted to the login screen unless they have already logged in, and it is saved to the browser's local storage unless the user closes the browser.
 
