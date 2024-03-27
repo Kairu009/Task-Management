@@ -22,12 +22,6 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
 ### Sample Screen Shot
 
 By default, the user is prompted to the login screen unless they have already logged in, and it is saved to the browser's local storage unless the user closes the browser.
@@ -36,4 +30,8 @@ By default, the user is prompted to the login screen unless they have already lo
 
 ![2](https://github.com/Kairu009/Task-Management/assets/139950310/6607ad68-2464-43d6-8806-a0b4bcdc8e0a)
 
+By default, Task View displays "No tasks available" and both counters are set to 0 until the user inserts a task, at which point the counter increases based on the total task and completed tasks.
 
+![3](https://github.com/Kairu009/Task-Management/assets/139950310/7a71ba7e-8b1b-472d-ae50-9b9d43bf73d7)
+
+![6](https://github.com/Kairu009/Task-Management/assets/139950310/5e9ef16d-a113-43bc-83a9-6dae07fd17e5)
