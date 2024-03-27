@@ -21,7 +21,7 @@ git clone https://github.com/Kairu009/Task-Management.git
 cd Task-Management
 ```
 
-### Install project dependencies.
+### Install project dependencies
 ```sh
 npm install
 ```
