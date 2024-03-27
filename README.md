@@ -30,6 +30,10 @@ npm run build
 
 ### Sample Screen Shot
 
-by default the user is prompt to the login view
+By default, the user is prompted to the login screen unless they have already logged in, and it is saved to the browser's local storage unless the user closes the browser.
 
 ![1](https://github.com/Kairu009/Task-Management/assets/139950310/03d1c702-eb9e-4ec7-9fcb-609e3d170e88)
+
+![2](https://github.com/Kairu009/Task-Management/assets/139950310/6607ad68-2464-43d6-8806-a0b4bcdc8e0a)
+
+
