@@ -11,20 +11,22 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
+### Clone the project
 ```sh
-git clone https://github.com/Kairu009/Task-Management.git?authuser=0
+git clone https://github.com/Kairu009/Task-Management.git
 ```
 
+### Open file directory
 ```sh
 cd Task-Management
 ```
 
+### Install project dependencies.
 ```sh
 npm install
 ```
 
 ### Compile and Hot-Reload for Development
-
 ```sh
 npm run dev
 ```
